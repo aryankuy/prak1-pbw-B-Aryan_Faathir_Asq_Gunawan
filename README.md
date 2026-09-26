@@ -14,5 +14,5 @@ https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/f948992d3
 
 tugas 2 identitas
 https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/38a106e93cc17281c5dc68847a326b5612055189/T2%20identitas%20sebelum.png
-
+https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/f495740c3405893e3eb70ead4e504b40996eabfd/T2%20identitas%20sesudah.png
 
