@@ -10,7 +10,7 @@ https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/eb66f8bb0
 
 tugas 2 hitung
 https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/789b53193346d26bb4667cbde905d7e66e25eafc/T2%20hitung%20sebelum.png
-
+https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/f948992d3d32cb5fedc27bdd0f405057fdc5bd46/T2%20hitung%20sesudah.png
 
 tugas 2 identitas
 
