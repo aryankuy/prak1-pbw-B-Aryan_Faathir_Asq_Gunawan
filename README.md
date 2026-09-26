@@ -13,6 +13,6 @@ https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/789b53193
 https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/f948992d3d32cb5fedc27bdd0f405057fdc5bd46/T2%20hitung%20sesudah.png
 
 tugas 2 identitas
-
+https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/38a106e93cc17281c5dc68847a326b5612055189/T2%20identitas%20sebelum.png
 
 
