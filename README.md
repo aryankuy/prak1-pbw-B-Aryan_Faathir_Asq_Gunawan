@@ -5,7 +5,7 @@ https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/7c1502bb4
 https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/55d90da06e24dfec4bcdae3f144b6748a1cde839/T1%20biodata%20sesudah.png
 
 tugas 1 kalkulator
-
+https://github.com/aryankuy/prak1-pbw-B-Aryan_Faathir_Asq_Gunawan/blob/584d9690205dcd53e39581bf3df1be76dd39432e/T1%20kalkulator%20sebelum.png
 
 
 tugas 2 hitung
