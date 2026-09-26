@@ -36,12 +36,12 @@ class ProdukDiskon extends Produk
 }
 
 $daftar = [
-    new Produk('Keyboard', 250000),
-    new ProdukDiskon('Mouse', 150000, 10)
+    new Produk('Baju', 250000),
+    new ProdukDiskon('Mouse', 150000, 50) //ubah diskon dari 10% menjadi 50%
 ];
 
 foreach ($daftar as $produk) {
     echo $produk->getNama() . ' Rp ' . number_format($produk->hargaAkhir(), 0, ',', '.') . '<br>';
 }
 
-?> 
+ //menambahkan tutup php ?>

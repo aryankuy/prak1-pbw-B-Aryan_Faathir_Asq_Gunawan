@@ -19,8 +19,14 @@ class Mahasiswa implements Identitas
 
     public function setIpk(float $ipk): void
     {
-        if ($ipk < 0 || $ipk > 4) {
-            throw new InvalidArgumentException('IPK harus 0 sampai 4.');
+        if ($ipk > 4) {
+            throw new InvalidArgumentException('IPK harus 2 sampai 4.'); //ubah ipk yang awalnya ipk harus 0 dan 4 menjadi batasnya 4 saja
+        }
+        elseif ($ipk >=2){ //set ipk yang normal
+            echo "ipk valid <br>";
+        }
+        elseif ($ipk <2){ //set ipk artefak kampus
+            echo "lalu kapan saya akan di wisuda <br>";
         }
         $this->ipk = $ipk;
     }
@@ -36,7 +42,7 @@ class Mahasiswa implements Identitas
     }
 }
 
-$mhs = new Mahasiswa('4524210016', 'Aryan Faathir Asq Gunawan', 3.75);
+$mhs = new Mahasiswa('4524210016', 'Aryan Faathir Asq Gunawan', 3.9);
 echo $mhs->ringkasan();
 
 ?>
